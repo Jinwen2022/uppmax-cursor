@@ -17,8 +17,8 @@ Use a Jupyter server running on an Uppmax compute node as a kernel backend in th
 
 ### 🔹 1. Start a Jupyter Server on Uppmax
 
-1. Open **ThinLinc** and log in to Uppmax.  
-2. Open a terminal and start an interactive job:
+1. Open **ThinLinc**, open the terminal in Thinlinc, and log in to Uppmax.  
+2. Start an interactive job:
 
    ```bash
    interactive -A uppmax****-*-** -n 5 -t 24:00:00
