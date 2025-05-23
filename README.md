@@ -22,7 +22,7 @@ Use a Jupyter server running on an Uppmax compute node as a kernel backend in th
 
    ```bash
    interactive -A uppmax****-*-** -n 5 -t 24:00:00
-````
+   ```
 
 3. Once on a compute node (e.g., `r1182`), run:
 
@@ -138,6 +138,4 @@ If not, move or re-save it.
 ## ✅ You’re All Set!
 
 You are now running a Jupyter Notebook on Uppmax, connected and editable directly from **Cursor**.
-
-
 ```
